@@ -1,0 +1,32 @@
+.main-title {
+	margin: 20px auto 40px auto;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #EEE;
+}
+.mini-title {
+	font-size: 35px;
+	font-weight: 600;
+	margin-top: -20px;
+}
+.target {
+	padding-top: 15px;
+	font-size: 85px;
+}
+.left-sidebar {
+	border-right: 1px solid #EEE;
+}
+.main-row {
+	border-bottom: 1px solid #EEE;
+	/*padding-bottom: 20px;*/
+}
+.ajax-loader {
+	font-size: 48px;
+	width: 50px;
+}
+.col-md-6 {
+	margin-bottom: 50px;
+}
+p.note {
+	margin-top: 10px;
+	font-size: 20px;
+}
